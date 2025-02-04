@@ -1,0 +1,2 @@
+The del keyword in python is used for deleting objects ,variables or elements from collections like lists,dictionaries etc.It helps in removing references
+to an object,which can free up memory when no longer needed.
